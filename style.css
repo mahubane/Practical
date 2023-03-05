@@ -1,0 +1,80 @@
+td {
+background: url(./images/bg-header-desktop.png);
+  height: 20vh;
+  width: 20vh;  
+}
+h1{
+    padding-left:60vh;
+}
+h2{
+    padding-left: 72vh;
+    margin-top: 10vh;
+}
+
+
+
+h4{ 
+    
+    color: lightgray;
+    margin-left:60vh;
+}
+button{
+    
+
+    color: white;
+    
+    margin: 10px;
+    padding: 20px;
+    border-radius: 30px;
+    border: whitesmoke;
+}
+
+p{
+    color:lightgray;
+    
+}
+
+
+
+#three{
+    padding-left:  50vh ;
+}
+
+
+
+#tuy{
+    padding-left: 15vh;
+    margin-bottom: 100px;
+    
+}
+/*#five{
+    margin-left: 100px;
+
+}
+#six{
+    margin-right: 60px;
+}
+#seven{
+    margin-right: 200px;
+}*/
+/*.nine{
+    background-color:whitesmoke;
+}*/
+.ten{
+    
+    width: 50px;
+    
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
